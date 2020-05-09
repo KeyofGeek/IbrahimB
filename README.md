@@ -1,2 +1,3 @@
 # Deneme
-Web Editörü dersi için deneme
+
+Web Editörü dersi için deneme dosyasıdır.
